@@ -18,5 +18,5 @@ http://wow.one.co.il/live1/ngrp:stream_all/protvisrael.m3u
 #EXTINF:-1 tvg-id="ערוץ +5" tvg-name="ערוץ +5" group-title="Israel" ,ערוץ +5
 http://rtmp.infomaniak.ch/livecast/hd55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ערוץ ספורט 2" tvg-name="ערוץ ספורט 2" group-title="Israel" ,ערוץ ספורט 2
-rtmp://204.45.157.98/app<break>16761?MTQzNTAwODI2MjsxNTc4N2FkMmU0Y2IxYzc3NmYyYjVjYjBkYTE4ZTkwNg==
+#EXTINF:-1 tvg-id="22ערוץ ספורט 2" tvg-name="ערוץ ספורט 2" group-title="Israel" ,ערוץ ספורט 2
+rtmp://50.7.28.130/app<break>16761?MTQzNTAxMTI0MTs0MTU0NDAwOWY4ZDhmMjk3ZGUxODM5MWUzODcxNmJmMg==
